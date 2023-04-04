@@ -1,0 +1,11 @@
+com\ProductManagement\util\ResponseDto.class
+com\ProductManagement\util\Constants.class
+com\ProductManagement\controller\ProductController.class
+com\ProductManagement\dto\ProductResponse.class
+com\ProductManagement\dao\ProductDao.class
+com\ProductManagement\dto\ProductRequest.class
+com\ProductManagement\ProductManagementApplication.class
+com\ProductManagement\util\Constants$STATUS.class
+com\ProductManagement\util\Constants$RES_CODES.class
+com\ProductManagement\service\ProductService.class
+com\ProductManagement\model\Product.class
